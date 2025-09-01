@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Hemdeeii Dev logo">
+  <rect width="120" height="120" rx="18" fill="#1f7adb"/>
+  <g fill="#fff" transform="translate(18,28)">
+    <rect x="0" y="0" width="8" height="46" rx="2"/>
+    <rect x="14" y="0" width="8" height="34" rx="2"/>
+    <rect x="28" y="0" width="8" height="22" rx="2"/>
+    <rect x="42" y="0" width="8" height="46" rx="2"/>
+  </g>
+</svg>
